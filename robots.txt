@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-sl7ht4.maxwin303sou.cfd/sitemap.xml
